@@ -1,5 +1,4 @@
 # AWSOME-DEVOPS-OPENSOURCE-TOOLS
-<!--
   Description: A curated list of amazingly awesome open source tools resources.
   Author: ROME
   -->
